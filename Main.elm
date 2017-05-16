@@ -44,7 +44,7 @@ update msg model =
 
 getPageCmd : Cmd Msg
 getPageCmd =
-    Http.send GetPageResult <| Http.get "../Pages/main.json" parsePage
+    Http.send GetPageResult <| Http.get "Pages/main.json" parsePage
 
 parsePage =
     Decode.at [ "body" ] Decode.string
