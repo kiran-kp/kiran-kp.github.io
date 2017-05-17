@@ -5,6 +5,7 @@ import Http
 import Json.Decode as Decode
 import Navigation
 import Task exposing (Task)
+import Markdown
 
 main =
   Html.program
@@ -16,12 +17,12 @@ main =
 
 -- MODEL
 type alias Model =
-  { body : String
+  { body : Html Msg
   }
 
 init : ( Model, Cmd Msg )
 init =
-  ( { body = "Init val" }
+  ( { body = text "Init val" }
   , getPageCmd
   )
 
@@ -33,23 +34,20 @@ update : Msg -> Model -> (Model, Cmd Msg)
 update msg model =
   case msg of
     GetPageResult (Ok page) ->
-        ( { model | body = page }
+        ( { model | body = Markdown.toHtml [ ]  page }
         , Cmd.none
         )
 
-    GetPageResult (Err page) ->
-        ( { model | body = "error fails" }
+    GetPageResult (Err error) ->
+        ( { model | body = text (toString error) }
         , Cmd.none
         )
 
 getPageCmd : Cmd Msg
 getPageCmd =
-    Http.send GetPageResult <| Http.get "Pages/main.json" parsePage
-
-parsePage =
-    Decode.at [ "body" ] Decode.string
+    Http.send GetPageResult <| Http.getString "Pages/main.md"
 
 -- VIEW
-view : Model -> Html msg
+view : Model -> Html Msg
 view model =
-    text model.body
+    model.body
