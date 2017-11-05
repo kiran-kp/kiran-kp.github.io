@@ -34,14 +34,22 @@ update : Msg -> Model -> (Model, Cmd Msg)
 update msg model =
   case msg of
     GetPageResult (Ok page) ->
-        ( { model | body = Markdown.toHtml [ ]  page }
+        ( { model | body = Markdown.toHtml [class ""]  page }
         , Cmd.none
         )
 
     GetPageResult (Err error) ->
-        ( { model | body = text (toString error) }
+        ( { model | body = getErrorContent error }
         , Cmd.none
         )
+
+getErrorContent error =
+    div
+        [ ]
+        [ div [ class "alert alert-danger" ] [ text "An error occured" ]
+        , br [] []
+        , text <| toString error
+        ]
 
 getPageCmd : Cmd Msg
 getPageCmd =
