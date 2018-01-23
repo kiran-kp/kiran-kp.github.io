@@ -6,7 +6,7 @@
   (-> any)
   (current-scheme/host "http://www.kirankp.com")
   (current-title "Kiran's Portfolio and Ramblings")
-  (current-author "Kiran Kumar Purushothaman"))
+  (current-author "Kiran Purushothaman"))
 
 ;; Called once per post and non-post page, on the contents.
 (define/contract (enhance-body xs)
