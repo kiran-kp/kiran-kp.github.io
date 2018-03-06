@@ -1,6 +1,7 @@
-jekyll/bundle
-jekyll/.sass-cache
-jekyll/Gemfile.lock
-jekyll/_site
-jekyll/*.gem
-jekyll/vendor
+bundle
+Gemfile.lock
+*.gem
+vendor
+_site
+.sass-cache
+.jekyll-metadata
