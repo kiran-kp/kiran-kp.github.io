@@ -1,0 +1,5 @@
+#+TITLE: Setting up the blog
+#+LAYOUT: post
+#+TAGS: jekyll org-mode
+
+Setting up a jekyll blog seems to be fairly simple.
