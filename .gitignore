@@ -1,1 +1,6 @@
-.frog
+jekyll/bundle
+jekyll/.sass-cache
+jekyll/Gemfile.lock
+jekyll/_site
+jekyll/*.gem
+jekyll/vendor
