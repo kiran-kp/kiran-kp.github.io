@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Kiran Purushothaman is a software engineer working at [Iron Galaxy Orlando LLC](http://www.irongalaxystudios.com/). Kiran graduated from the [Florida Interactive Entertainment Academy](https://fiea.ucf.edu/) with an MS Interactive Entertainment in 2012 and graduated from [Amrita School of Engineering](https://www.amrita.edu) with a B.Tech in Computer Science and Engineering in 2011.
