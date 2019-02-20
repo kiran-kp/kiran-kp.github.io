@@ -20,10 +20,10 @@ Xbox One and PS4 port of open world, sandbox game implemented in Unity
 *** Summary
 Xbox One and PS4 port of the MMO set in Bethesda’s Elder Scrolls universe
 *** Responsibilities
-– Designed and implemented thread-safe abstractions for platform services (PSN and Xbox Live)
+- Designed and implemented thread-safe abstractions for platform services (PSN and Xbox Live)
 - Implemented account linking
-– Worked with backend services team to implement client login system
-– Implmentation of UI screens related to interactions with platform services
+- Worked with backend services team to implement client login system
+- Implmentation of UI screens related to interactions with platform services
 ** [[https://store.playstation.com/en-us/product/UP9012-PCSE00383_00-BORDERLANDS2PSV1][Borderlands 2]]
 *** Summary
 PS Vita port of Gearbox’s co-op first person shooter
