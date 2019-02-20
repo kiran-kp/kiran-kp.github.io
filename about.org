@@ -3,8 +3,11 @@
 #+INCLUDE: "navbar.org"
 
 #+BEGIN_QUOTE
-I am a Senior Software Engineer at Iron Galaxy Orlando LLC \\
-I graduated from University of Central Florida with an MS Interactive Entertainment in 2012 \\
-I graduated from Amrita School of Engineering with a B.Tech Computer Science and Engineering in 2011 \\
-Also, if it's not obvious from looking at my website I'm not much of a web designer
+I am a Senior Software Engineer at Iron Galaxy Orlando LLC. I graduated from University of Central Florida with an MS Interactive Entertainment in 2012 and have a B.Tech Computer Science and Engineering from Amrita School of Engineering. \\
+\\
+Also, if it's not obvious from looking at my website I'm not much of a web designer.
 #+END_QUOTE
+
+#+BEGIN_CENTER
+| Twitter: [[https://twitter.com/kirankp89][@kirankp89]] | LinkedIn: [[https://www.linkedin.com/in/kiran-purushothaman-a04826168/][Kiran Purushothaman]] | Email: [[mailto:kiran@kirankp.com][kiran@kirankp.com]] |
+#+END_CENTER

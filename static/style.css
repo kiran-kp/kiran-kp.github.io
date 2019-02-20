@@ -367,3 +367,7 @@ ul {
 blockquote {
     font-size: 1.15em;
 }
+
+.org-center table {
+    margin: 0 auto;
+}
