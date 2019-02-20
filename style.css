@@ -193,7 +193,7 @@ code {
     padding: 2px;
 }
 a {
-    color: #dca3a3;
+    color: #dcdccc;
 }
 a:visited {
     color: #e0cf9f;
@@ -213,29 +213,41 @@ h3 {
 h4,
 h5,
 h6 {
-    color: #859900;
+    color: #d84e4e;
 }
 pre {
-    background-color: #002b36;
-    color: #839496;
-    border: 1pt solid #586e75;
+    background-color: #333333;
+    color: #ffffff;
+    border: 1pt solid #000000;
     padding: 1em;
-    box-shadow: 5pt 5pt 8pt #073642;
+    box-shadow: 5pt 5pt 8pt #222222;
 }
 pre code {
     background-color: #002b36;
 }
 h1 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
     font-size: 2.8em;
 }
 h2 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    text-align: center;
     font-size: 2.4em;
+    padding: 0px;
 }
 h3 {
+    margin-block-start: 1em;
+    margin-block-end: 0px;
     font-size: 1.8em;
+    padding: 0px;
 }
 h4 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
     font-size: 1.4em;
+    padding: 0px;
 }
 h5 {
     font-size: 1.3em;
@@ -331,4 +343,14 @@ div.NAVBAR li a {
 /* Change the link color to #111 (black) on hover */
 div.NAVBAR li a:hover {
     background-color: #111;
+}
+
+p {
+    margin-block-start: 0px;
+    margin-block-end: 1em;
+}
+
+ul {
+    margin-block-start: 0px;
+    margin-block-end: 1em;
 }
