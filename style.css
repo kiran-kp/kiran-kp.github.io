@@ -338,6 +338,7 @@ div.NAVBAR li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-size: 1.15em;
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -361,4 +362,8 @@ ul {
 .outline-3 {
     border: 1px solid #000000;
     padding: 1em;
+}
+
+blockquote {
+    font-size: 1.15em;
 }
