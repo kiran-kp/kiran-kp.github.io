@@ -1,3 +1,0 @@
-#+TITLE:
-#+LAYOUT: post
-#+TAGS: jekyll org-mode

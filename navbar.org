@@ -1,0 +1,5 @@
+#+BEGIN_NAVBAR
+- [[file:index.org][Home]]
+- [[file:kiran_purushothaman.pdf][Resume]]
+- [[file:about.org][About]]
+#+END_NAVBAR
