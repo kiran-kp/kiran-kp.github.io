@@ -3,7 +3,7 @@
 #+INCLUDE: "navbar.org"
 
 #+BEGIN_QUOTE
-I am a Senior Software Engineer at Iron Galaxy Orlando LLC. I graduated from University of Central Florida with a MS Interactive Entertainment in 2012 and a B.Tech Computer Science and Engineering from Amrita School of Engineering in 2011. \\
+I am a Senior Software Engineer at Iron Galaxy Orlando LLC. I graduated from [[https://www.ucf.edu/][University of Central Florida]] with a MS Interactive Entertainment in 2012 and a B.Tech Computer Science and Engineering from [[https://www.amrita.edu/][Amrita School of Engineering]] in 2011. \\
 \\
 Also, if it's not obvious from looking at my website I'm not much of a web designer.
 #+END_QUOTE
