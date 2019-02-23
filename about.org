@@ -1,5 +1,5 @@
 #+SETUPFILE: html.setup
-#+TITLE: About me
+#+TITLE: Kiran Purushothaman - About me
 #+INCLUDE: "navbar.org"
 
 #+BEGIN_QUOTE
