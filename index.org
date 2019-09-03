@@ -3,6 +3,11 @@
 #+INCLUDE: "navbar.org"
 
 * Past Work
+** [[https://playdauntless.com/][Dauntless]]
+*** Summary
+Demo port of multiplayer monster hunting game to Nintendo Switch.
+*** Responsibilities
+- CPU and memory optimizations for gameplay and UI (UE4 UMG)
 ** [[https://www.playstation.com/en-us/games/dreadnought-ps4/][Dreadnought]]
 *** Summary
 PS4 port of PC free-to-play space combat game created with Unreal Engine 4
@@ -15,7 +20,7 @@ Xbox One and PS4 port of open world, sandbox game implemented in Unity
 *** Responsibilities
 - Lead optimization efforts for the console ports including reducing memory allocations, parallelization of terrain generation, and moving specific systems to a native plugin
 - Implemented performance benchmark scenarios
-- Researched native reimplementation of specific systems to avoid costs of Mono/C# runtime
+- Researched and executed on native reimplementation of specific systems to avoid overhead of Mono/C# runtime
 ** [[https://www.elderscrollsonline.com/en-us/home][The Elder Scrolls Online]]
 *** Summary
 Xbox One and PS4 port of the MMO set in Bethesda’s Elder Scrolls universe
