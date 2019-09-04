@@ -8,7 +8,7 @@
 Initial port of multiplayer monster hunting game to Nintendo Switch for E3 2019.
 *** Responsibilities
 - CPU and memory optimizations for gameplay and UI (UE4 UMG)
-** Unrelease Stadia Title
+** Unreleased Stadia Title
 *** Summary
 Port of latest entry in popular FPS franchise to Google Stadia.
 *** Responsibilities
