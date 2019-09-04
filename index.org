@@ -44,7 +44,7 @@ PS Vita port of Gearbox’s co-op first person shooter
 - Implemented occlusion culling for the Vita platform
 - ARM SIMD extension(NEON) related optimizations
 - Misc. porting related bugs involving gameplay, rendering and physics
-** Unreleased Android title
+** Unreleased Android Title
 *** Summary
 Port of iOS game developed using Unreal Engine 3
 *** Responsibilities
