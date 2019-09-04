@@ -185,7 +185,7 @@ body {
     background-color: #3f3f3f;
     margin: 0 auto;
     max-width: 36cm;
-    border: 1pt solid #000000;
+    border: 0pt solid #000000;
     padding: 1em;
 }
 code {
@@ -320,6 +320,7 @@ h6 {
     border-radius: 0.2em;
     background-color: #859900;
 }
+
 div.NAVBAR ul {
     list-style-type: none;
     margin: 0;
@@ -360,12 +361,19 @@ ul {
 }
 
 .outline-3 {
-    border: 1px solid #000000;
     padding: 1em;
+}
+
+.outline-text-4 {
+    font-size: 1.15em;
 }
 
 blockquote {
     font-size: 1.15em;
+}
+
+.org-center {
+    overflow-x: auto;
 }
 
 .org-center table {
