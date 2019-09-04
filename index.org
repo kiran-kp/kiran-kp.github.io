@@ -7,13 +7,15 @@
 *** Summary
 Initial port of multiplayer monster hunting game to Nintendo Switch for E3 2019.
 *** Responsibilities
-- CPU and memory optimizations for gameplay and UI (UE4 UMG)
+- Lead engineer for team of 3 engineers
+- Investigated various CPU and memory optimizations for gameplay and UI (UE4 UMG)
 ** Unreleased Stadia Title
 *** Summary
 Port of latest entry in popular FPS franchise to Google Stadia.
 *** Responsibilities
 - Lead team of 2-5 engineers to wrap up performance and stability issues on the platform
 - Investigated bugs in Vulkan renderer implementation
+- Investigated stability bugs and various memory issues
 ** [[https://www.playstation.com/en-us/games/dreadnought-ps4/][Dreadnought]]
 *** Summary
 PS4 port of PC free-to-play space combat game created with Unreal Engine 4
