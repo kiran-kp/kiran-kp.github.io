@@ -3,13 +3,13 @@
 #+INCLUDE: "navbar.org"
 
 * Past Work
-** [[https://playdauntless.com/][Dauntless]] [Nintendo Switch]
+** [[https://playdauntless.com/][Dauntless]] [Switch]
 *** Summary
 Initial port of multiplayer monster hunting game to Nintendo Switch for E3 2019.
 *** Responsibilities
 - Lead engineer for team of 3 engineers
 - Investigated various CPU and memory optimizations for gameplay and UI (UE4 UMG)
-** Unreleased Title [Google Stadia]
+** Unreleased Title [Stadia]
 *** Summary
 Port of latest entry in popular FPS franchise to Google Stadia.
 *** Responsibilities
