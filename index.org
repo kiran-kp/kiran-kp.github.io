@@ -3,33 +3,33 @@
 #+INCLUDE: "navbar.org"
 
 * Past Work
-** [[https://playdauntless.com/][Dauntless]]
+** [[https://playdauntless.com/][Dauntless]] [Nintendo Switch]
 *** Summary
 Initial port of multiplayer monster hunting game to Nintendo Switch for E3 2019.
 *** Responsibilities
 - Lead engineer for team of 3 engineers
 - Investigated various CPU and memory optimizations for gameplay and UI (UE4 UMG)
-** Unreleased Stadia Title
+** Unreleased Title [Google Stadia]
 *** Summary
 Port of latest entry in popular FPS franchise to Google Stadia.
 *** Responsibilities
 - Lead team of 2-5 engineers to wrap up performance and stability issues on the platform
 - Investigated bugs in Vulkan renderer implementation
 - Investigated stability bugs and various memory issues
-** [[https://www.playstation.com/en-us/games/dreadnought-ps4/][Dreadnought]]
+** [[https://www.playstation.com/en-us/games/dreadnought-ps4/][Dreadnought]] [PS4]
 *** Summary
 PS4 port of PC free-to-play space combat game created with Unreal Engine 4
 *** Responsibilities
 - Lead build and tools team responsible for maintaining and optimizing continuous integration and developer workflows
 - Investigation of miscellaneous stability and UI performance bugs
-** [[https://7daystodie.com/][7 Days To Die]]
+** [[https://7daystodie.com/][7 Days To Die]] [XB1][PS4]
 *** Summary
 Xbox One and PS4 port of open world, sandbox game implemented in Unity
 *** Responsibilities
 - Lead optimization efforts for the console ports including reducing memory allocations, parallelization of terrain generation, and moving specific systems to a native plugin
 - Implemented performance benchmark scenarios
 - Researched and executed on native reimplementation of specific systems to avoid overhead of Mono/C# runtime
-** [[https://www.elderscrollsonline.com/en-us/home][The Elder Scrolls Online]]
+** [[https://www.elderscrollsonline.com/en-us/home][The Elder Scrolls Online]] [XB1][PS4]
 *** Summary
 Xbox One and PS4 port of the MMO set in Bethesda’s Elder Scrolls universe
 *** Responsibilities
@@ -37,21 +37,21 @@ Xbox One and PS4 port of the MMO set in Bethesda’s Elder Scrolls universe
 - Implemented account linking
 - Worked with backend services team to implement client login system
 - Implmentation of UI screens related to interactions with platform services
-** [[https://store.playstation.com/en-us/product/UP9012-PCSE00383_00-BORDERLANDS2PSV1][Borderlands 2]]
+** [[https://store.playstation.com/en-us/product/UP9012-PCSE00383_00-BORDERLANDS2PSV1][Borderlands 2]] [PS Vita]
 *** Summary
 PS Vita port of Gearbox’s co-op first person shooter
 *** Responsibilities
 - Implemented occlusion culling for the Vita platform
 - ARM SIMD extension(NEON) related optimizations
 - Misc. porting related bugs involving gameplay, rendering and physics
-** Unreleased Android Title
+** Unreleased Title [Android]
 *** Summary
 Port of iOS game developed using Unreal Engine 3
 *** Responsibilities
 - Social media integration(Facebook and Twitter)
 - HTTP abstraction layer
 - Local/push notifications
-** [[http://dnd.wizards.com/products/digital-games/console/chronicles-mystara][Dungeons & Dragons: Chronicles of Mystara]]
+** [[http://dnd.wizards.com/products/digital-games/console/chronicles-mystara][Dungeons & Dragons: Chronicles of Mystara]] [Xbox360][PS3][WiiU][PC/Steam]
 *** Summary
 Port of arcade classic to Xbox360, PS3, WiiU, and PC
 *** Responsibilities
