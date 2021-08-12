@@ -1,0 +1,20 @@
+baseURL = "https://kiran-kp.github.io/"
+languageCode = "en-us"
+title = "kiran-kp"
+theme = "binario"
+paginate = 10
+canonifyurls = true
+
+[params]
+columns = 1
+copyright = "Kiran Kumar Purushothaman"
+authorbox = false
+mainSections = ["posts"]
+mainMenuAlignment = "right"
+
+[params.nav]
+showCategories = true
+showTags = true
+
+[outputs]
+  home = ["HTML", "RSS"]

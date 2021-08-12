@@ -1,0 +1,14 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: posts/
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+#+TODO: TODO DRAFT | DONE
+
+* DONE First Entry                                                                         :emacs:programming:@tests:
+:PROPERTIES:
+:ID:       03e3679b-0efc-44e3-b30f-3def598daf5a
+:EXPORT_FILE_NAME: first-entry
+:EXPORT_HUGO_SECTION: posts/ 
+:END:
+To infinity... and beyond!
+

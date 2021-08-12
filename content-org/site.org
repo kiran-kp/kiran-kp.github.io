@@ -1,0 +1,19 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_SECTION: ./
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+#+TODO: TODO DRAFT | DONE
+#+author: Kiran Purushothaman
+
+* DONE Home
+:PROPERTIES:
+:ID:       862d7153-a145-413b-b1d2-a3934cdbdfb2
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_LAYOUT: index
+:END:
+* DONE Tags
+:PROPERTIES:
+:ID:       377e941b-44e2-486b-b861-fca93841a946
+:EXPORT_HUGO_SECTION: tags/
+:EXPORT_HUGO_MENU: :menu main
+:END:
