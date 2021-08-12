@@ -14,6 +14,7 @@
 * DONE Tags
 :PROPERTIES:
 :ID:       377e941b-44e2-486b-b861-fca93841a946
+:EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_SECTION: tags/
 :EXPORT_HUGO_MENU: :menu main
 :END:

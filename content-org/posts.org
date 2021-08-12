@@ -4,11 +4,14 @@
 #+HUGO_AUTO_SET_LASTMOD: t
 #+TODO: TODO DRAFT | DONE
 
-* DONE First Entry                                                                         :emacs:programming:@tests:
+* DONE A new beginning                                                                                      :general:
 :PROPERTIES:
 :ID:       03e3679b-0efc-44e3-b30f-3def598daf5a
 :EXPORT_FILE_NAME: first-entry
 :EXPORT_HUGO_SECTION: posts/ 
 :END:
-To infinity... and beyond!
+Tearing down the site and rebuilding it so it doesn't look like
+garbage anymore. I have no idea what I'm doing with web tech so I'm
+hoping a site generator will simplify the process enough for me to
+actually write more often.
 
